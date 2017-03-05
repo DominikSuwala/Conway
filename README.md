@@ -8,4 +8,4 @@ Python 2.7.*
 
 ## Usage
 
-> python conway.py <input_file.txt>
+> python conway.py <<input_file.txt>>
